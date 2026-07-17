@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+job_bot.db
+.venv/
+debug_olx_*
